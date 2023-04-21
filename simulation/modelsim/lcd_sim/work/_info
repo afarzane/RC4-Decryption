@@ -1,0 +1,51 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Glorie/OneDrive - Simon Fraser University (1sfu)/School/Semesters/2023 SPRING/ENSC 350/LAB/LAB4/lab4/task3_bonus/simulation/modelsim
+Elcd
+Z0 w1680477681
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Glorie/OneDrive - Simon Fraser University (1sfu)/School/Semesters/2023 SPRING/ENSC 350/LAB/LAB4/lab4/task3_bonus/simulation/modelsim/lcd_sim
+Z5 8C:/Users/Glorie/OneDrive - Simon Fraser University (1sfu)/School/Semesters/2023 SPRING/ENSC 350/LAB/LAB4/lab4/task3_bonus/lcd.vhd
+Z6 FC:/Users/Glorie/OneDrive - Simon Fraser University (1sfu)/School/Semesters/2023 SPRING/ENSC 350/LAB/LAB4/lab4/task3_bonus/lcd.vhd
+l0
+L8
+VdX3CSQ4`W[OGO?:gWRT@=0
+!s100 NY_@B4DMO]MVYHz]<fnn71
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1680484725
+!i10b 1
+Z9 !s108 1680484725.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Glorie/OneDrive - Simon Fraser University (1sfu)/School/Semesters/2023 SPRING/ENSC 350/LAB/LAB4/lab4/task3_bonus/lcd.vhd|
+Z11 !s107 C:/Users/Glorie/OneDrive - Simon Fraser University (1sfu)/School/Semesters/2023 SPRING/ENSC 350/LAB/LAB4/lab4/task3_bonus/lcd.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+Z14 DEx4 work 3 lcd 0 22 dX3CSQ4`W[OGO?:gWRT@=0
+l33
+L25
+Z15 VJlnfJ2mgcAa79jb4A@joz1
+Z16 !s100 ?@VC=3@f;L`gZT33QH5no1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Apr  3 09:10:43 2023
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : task3_bonus
+Top-level Entity Name : ksa
+Family : Cyclone IV E
+Total logic elements : 4,115
+    Total combinational functions : 4,055
+    Dedicated logic registers : 969
+Total registers : 969
+Total pins : 62
+Total virtual pins : 0
+Total memory bits : 4,352
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
